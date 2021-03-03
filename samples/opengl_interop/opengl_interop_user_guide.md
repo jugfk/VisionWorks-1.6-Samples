@@ -36,3 +36,4 @@ This topic provides a list of supported options and the values they consume.
 
 ### Operational Keys ###
 - Use `ESC` to close the sample.
+
